@@ -11,7 +11,7 @@ FIXME: home page introduction
 
 > ## Prerequisites
 >
-> FIXME
+> While this lesson has no prerequisites, completion of previous lessons in the Curation for Reproducibility Curriculum ([Lesson 1: Introduction to Curation for Reproducibility](), [Lesson 2: Curating for Reproducibility Workflows](), and [Lesson 3: Assessing Reproducibility]()) is highly recommended prior to starting this lesson.
 {: .prereq}
 
 {% include links.md %}
