@@ -48,7 +48,7 @@ Sharing a research compendium that contains complex computing materials such as 
 2. Does your documentation adequately explain how reusers can install and use the software?
 3. Does your documentation outline a clear plan about how reusers may be made aware of any updates made to the software?
 
-> ## Know Your (Repository’s) Limits
+> ## Spotlight: Know Your (Repository’s) Limits
 >
 > Some repositories may not have the technical capability to host data and code where the access must be restricted and cannot be made publicly available with no access limitations. As you use the knowledge you learned from Lesson 4: Episode 3 to choose appropriate repositories, consider if a repository can host your restricted materials, proprietary materials, and complex computing products in a manner that balances reuse with protection of their special considerations. 
 >
@@ -56,7 +56,7 @@ Sharing a research compendium that contains complex computing materials such as 
 
 Practice makes better. The more you exercise the better practices being exposed in the episodes, the more it will become engrained and natural to do. Here is another opportunity to put into practice what has been learned about READMEs, their functionality and importance.
 
-> ## Balancing Reproducibility with Proper Data Sharing Procedures
+> ## Discussion: Balancing Reproducibility with Proper Data Sharing Procedures
 >
 > As you learned in Lesson 1 from the definitions of empirical, statistical, and computational reproducibility, the factors needed to achieve reproducibility varies depending on the research context. In each of the scenarios below, consider how the researcher might balance their goals in making their work reproducible while adhering to proper procedures around restricted materials. 
 >
@@ -82,7 +82,7 @@ Practice makes better. The more you exercise the better practices being exposed 
 > {: .solution}
 {: .discussion}
 
-> ## Create a README for a Compendium Package with Special Cases of Data and Code
+> ## Exercise: Create a README for a Compendium Package with Special Cases of Data and Code
 >
 > In Lesson 2: Episode 3, you learned about the specific elements needed in a README file. We will now ask you to apply this information towards creating a README file for a research compendium containing special cases of data and code. You will not be creating each section of the README, but rather discussing what major key areas need to be included in the document based on the below scenario.
 >
@@ -104,9 +104,5 @@ Practice makes better. The more you exercise the better practices being exposed 
 > >
 > {: .solution}
 {: .challenge}
-
-
-
-
 
 {% include links.md %}
