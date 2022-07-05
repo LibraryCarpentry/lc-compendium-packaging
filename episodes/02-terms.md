@@ -22,24 +22,22 @@ Whether a researcher decides to place the research compendium in the public doma
 
 ## Licenses
 
-
 For researchers who have full ownership of their materials and the materials do not present privacy concerns, licenses can be a useful tool for sharing materials without requiring others to request formal permission to use the materials.  
 
 A license is a formal document that defines acceptable uses of a work by granting permission and setting conditions. Whereas copyright (as it is defined and enforced by U.S. copyright law) can act as a legal roadblock to reproducibility by conferring exclusive use rights to the creator of research materials, licenses remove this roadblock while still providing the creator a legal framework for enforcing specified acceptable uses and/or conditions for use of the materials.
 
-> ## Licensing "Facts"?
+> ## Spotlight: Licensing "Facts"?
 > 
 > When it comes to applying licenses to research data, questions have been raised about whether or not United States Copyright law allows it.  According to [37 CFR Part 202.1](https://www.ecfr.gov/current/title-37/chapter-II/subchapter-A/part-202/section-202.1), certain materials are not subject to copyright, including “works consisting entirely of information that is common property containing no original authorship, such as, for example: Standard calendars, height and weight charts, tape measures and rulers, schedules of sporting events, and lists or tables taken from public documents or other common sources.” In other words, facts--which often are how data are described--are not copyrightable.  For copyright law to apply, a work must be an authored work that is both original and sufficiently creative.
 >
 > It has been successfully argued that research data can be shown to meet this standard of copyrightable works when originality and creativity is expressed in terms of the author’s selection and arrangement of the data within a database (see [Feist Publications, Inc. v. Rural Telephone Service Co., Inc., 499 U.S. 340 (1991)](https://supreme.justia.com/cases/federal/us/499/340/)). Therefore, while the facts themselves are not subject to copyright, licenses can be applied to structured databases--i.e., datasets--that contain facts. 
 >
-> Read more about the nuances of licensing research data here:
+> **Read more about the nuances of licensing research data here:**  
+> Stodden, V. (2009). Enabling reproducible research: Open licensing for scientific innovation. *International Journal of Communications Law and Policy, 13*, 22–47. Retrieved from [https://ssrn.com/abstract=1362040](https://ssrn.com/abstract=1362040) 
 >
-> **Stodden, V. (2009). Enabling reproducible research: Open licensing for scientific innovation. *International Journal of Communications Law and Policy, 13*, 22–47. Retrieved from [https://ssrn.com/abstract=1362040](https://ssrn.com/abstract=1362040)** 
+> Carroll, M. W. (2015). Sharing research data and intellectual property law: A primer. *PLOS Biology, 13*(8), e1002235. [https://doi.org/10.1371/journal.pbio.1002235](https://doi.org/10.1371/journal.pbio.1002235)
 >
-> **Carroll, M. W. (2015). Sharing research data and intellectual property law: A primer. *PLOS Biology, 13*(8), e1002235. [https://doi.org/10.1371/journal.pbio.1002235](https://doi.org/10.1371/journal.pbio.1002235)** 
->
-> **Creative Commons. (2019, October 23). *Data*. Creative Commons Wiki. [https://wiki.creativecommons.org/wiki/Data](https://wiki.creativecommons.org/wiki/Data)**
+> Creative Commons. (2019, October 23). *Data*. Creative Commons Wiki. [https://wiki.creativecommons.org/wiki/Data](https://wiki.creativecommons.org/wiki/Data)
 {: .callout}
 
 ## Selecting a License
@@ -52,17 +50,17 @@ Creative Commons licenses offer many advantages because they allow creators to s
 
 For researchers who may want to place their materials into the public domain without any restrictions or conditions of use, Creative Commons offers the CC0 public dedication tool.  
 
-[IMAGE]
+![CC0 Public Dedication Tool]({{ page.root }}/fig/02-cc0.jpg "CC0 Public Dedication Tool")
 
 By applying CC0 to their materials, the researcher grants permission to distribute, remix, adapt, and build upon their materials for any purpose and without conditions.
 
 Besides Creative Commons, there are numerous licensing options for researchers to choose from, each allowing declaration of certain use conditions that may not or may not be relevant to a particular type of material.  The table below presents a list of other widely used licenses, the permissions and conditions the licenses define, and the types of works to which the licenses are commonly applied.
 
-[IMAGE]
+![Other licensing options]({{ page.root }}/fig/02-licenses.jpg "Other licensing options")
 
 As with previous episode challenges, putting abstract concepts into action and discussing the reasons behind the choices can strengthen our understanding and confidence in applying those concepts. The next challenge will have you drawing from what you learned about licenses to select an appropriate license for materials included in a research compendium.
 
-> ## Pick a License
+> ## Exercise: Pick a License
 >
 > Compendium description and context.
 > 
@@ -85,11 +83,11 @@ As with previous episode challenges, putting abstract concepts into action and d
 > {: .solution}
 {: .challenge}
 
-> ## Principles of Scientific Licensing: The Reproducible Research Standard
+> ## Discussion: Principles of Scientific Licensing: The Reproducible Research Standard
 > 
 > Considering the effect licensing can have on establishing scientific norms for sharing research outputs, Victoria Stodden (2009) proposed the Reproducible Research Standard (RRS) as a structure for ensuring that scientific works are made publicly available under licensing terms that promote openness required for reproducible research:
 >
-> [IMAGE]
+> ![The Reproducible Research Standard]({{ page.root }}/fig/02-rrs.jpg "The Reproducible Research Standard")
 >
 > The RRS proposes that the research compendium be made available to the public under licensing terms that give others permission to copy and use the compendium.  Doing so follows the Principle of Scientific Licensing, which states that “Legal encumbrances to the dissemination, sharing, use, and re-use of scientific compendia should be minimized, and require strong and compelling rationale before application” (p. 28).
 >
