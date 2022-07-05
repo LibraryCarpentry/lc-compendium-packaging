@@ -32,9 +32,9 @@ The TIER (Teaching Integrity in Empirical Research) Protocol offers a framework 
 
 As discussed in previous lessons in the Curating for Reproducibility Curriculum, the research compendium, at a minimum, should contain a readme, dataset, codebook, and script file.  The file folder granularity of TIER Protocol 4.0 goes further to reflect the reality of typical computational research that often requires several data and script files to perform all of the steps in the analytical workflow, some of which may generate intermediate files that then become part of the analysis to produce outputs.
 
-[IMAGE]
+![TIER Protocol 4.0 directory structure]({{ page.root }}/fig/01-tier.jpg "TIER Protocol 4.0 directory structure")
 
-Within the root **`Project/`** folder are the **README file** (see [Episode 3: Documentation Review]() in Lesson 2: Curating for Reproducibilty Workflows of the CuRe Curriculum), the **Report file** (final article/report), and three primary subfolders each containing specific files as described below.
+Within the root **`Project/`** folder are the **README file** (see Episode 3: Documentation Review] in [Lesson 2: Curating for Reproducibilty Workflows](https://curating4reproducibility.org/cure-carpentry-02-workflows/) of the CuRe Curriculum), the **Report file** (final article/report), and three primary subfolders each containing specific files as described below.
 
 **`Data/`**
 
@@ -48,18 +48,19 @@ For each analysis data file, the TIER Protocol also requires a **data appendix**
 
 This folder should include **processing scripts** used to transform input data into analysis data files, analysis scripts used to generate results presented in the final report/article, and **data appendix scripts** used to produce results presented in the appendix of the final report/article.  
 
-To help achieve (almost) one-click reproducibility, the TIER Protocol also recommends a master script file, or **main script file**, (see [Episode 3: Code Inspection]() in Lesson 3: Reproducibility Assessment of the CuRe Curriculum) that runs all of the scripts in the proper order with as little human intervention as possible beyond executing the main script to produce the results presented in the report/article and the appendix.
+To help achieve (almost) one-click reproducibility, the TIER Protocol also recommends a master script file, or **main script file**, (see [Episode 3: Code Inspection](https://curating4reproducibility.org/cure-carpentry-03-assessing/) in Lesson 3: Reproducibility Assessment of the CuRe Curriculum) that runs all of the scripts in the proper order with as little human intervention as possible beyond executing the main script to produce the results presented in the report/article and the appendix.
 
 **`Output/`**
 
 This folder should contain **results files** that include the figures, tables, and any other results presented in the final report/article as well as **data appendix output files** that include the figures tables and any other outputs presented in the appendix of the final report/article.
 
-Learn more about the TIER Protocol here:
+
+**Learn more about the TIER Protocol here:**  
 [https://www.projecttier.org/](https://www.projecttier.org/) 
 
 It is the rare researcher who routinely keeps their compendium files in a neat folder structure like the one suggested by the TIER Protocol.  More often, files are delivered in a single folder with little information on what each file contains. The next challenge will give you a chance to transform a collection of files into an organized research compendium.
 
-> ## TIER(s) of Joy
+> ## Exercise: TIER(s) of Joy
 >
 > As this episode explained, organizing files in a logical manner supports reproducibility by making it more evident the purpose of each file and the relationships among them.  This is useful during curation for reproducibility workflows that require understanding of the analytical workflow in order to re-execute the analysis to confirm reproducibility of results.  
 >
@@ -98,7 +99,7 @@ File naming conventions should also take into account the computing environment 
 
 The example below shows the application of a file naming convention to files contained in a research compendium.  
 
-[IMAGE]
+![Formatted file names]({{ page.root }}/fig/01-naming.jpg "Formatted file names")
 
 ## Version Control
 
@@ -120,13 +121,19 @@ The often non-linear nature of computational research can make version control o
 
 It is important to put into practice what one learns as they learn it to not only retain but begin making it a habit. Let’s try it here by practicing file naming.
 
-> ## What's in a (File) Name?
+> ## Exercise: What's in a (File) Name?
 >
 > How would you rename the files below to make it easier for researchers to have a better sense of their contents and function, be able to track file versions, and ensure the filenames are machine-readable?
 >
+> - `parent-add health study wave 3_nov19.csv`
+> - `addhealth_child_w3_10-24-22.csv`
+> - `child-add health study-wave3 final.csv`
+>
 > > ## Solution
 > >
-> > solution
+> > - `addhealth_w3_parent_20221119.csv`
+> > - `addhealth_w3_child_20221024.csv`
+> > - `addhealth_w3_child_final.csv`
 > >
 > {: .solution}
 {: .challenge}
