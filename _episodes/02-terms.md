@@ -48,7 +48,7 @@ Creative Commons licenses have become widely recognized for its ease of use and 
 
 Creative Commons licenses offer many advantages because they allow creators to select from a range of licenses with different degrees of permissiveness, they offer standardized machine-readable legal text along with easy-to-understand summaries, and they are enforceable worldwide.  Below are the license options offered by Creative Commons (version 4.0 International).
 
-[image description]({{ page.root }}/fig/02-cc-terms.png "alt text")
+![Creative Commons licenses]({{ page.root }}/fig/02-cc-terms.png "Create Commons licenses")
 
 For researchers who may want to place their materials into the public domain without any restrictions or conditions of use, Creative Commons offers the CC0 public dedication tool.  
 
