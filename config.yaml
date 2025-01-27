@@ -20,7 +20,7 @@ carpentry: 'cp'
 title: 'Compendium Packaging and Publication'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: 2013-07-14
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -33,7 +33,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/cure-carpentry-04-packaging/'
+source: 'https://github.com/curating4reproducibility/cure-carpentry-04-packaging'
 
 # Default branch of your lesson
 branch: 'main'
@@ -64,20 +64,20 @@ contact: 'team@carpentries.org'
 # - another-learner.md
 
 # Order of episodes in your lesson
-episodes: 
+episodes:
 - 01-packaging.md
 - 02-terms.md
 - 03-repositories.md
 - 04-special.md
 
 # Information for Learners
-learners: 
+learners:
 
 # Information for Instructors
-instructors: 
+instructors:
 
 # Learner Profiles
-profiles: 
+profiles:
 
 # Customisation ---------------------------------------------
 #
@@ -86,7 +86,6 @@ profiles:
 
 
 carpentry_description: Lesson Description
-url: https://preview.carpentries.org/cure-carpentry-04-packaging
+url: 'https://curating4reproducibility.github.io/cure-carpentry-04-packaging'
 analytics: carpentries
 lang: en
-workbench-beta: yes
