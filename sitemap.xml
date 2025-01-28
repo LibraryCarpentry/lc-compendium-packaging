@@ -22,7 +22,13 @@
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/aio.html</loc>
+  </url>
+  <url>
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/images.html</loc>
   </url>
   <url>
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/index.html</loc>
@@ -49,16 +55,34 @@
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/profiles.html</loc>
   </url>
   <url>
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/key-points.html</loc>
   </url>
   <url>
     <loc>https://curating4reproducibility.github.io/cure-carpentry-04-packaging/profiles.html</loc>
