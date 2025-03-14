@@ -1,4 +1,4 @@
-# Packaging and Publishing the Research Compendium
+# Compendium Packaging and Publication
 
 This final lesson in the Curating for Reproducibility curriculum explains the process of assembling, packaging, and publishing a research compendium. It covers key issues and best practices for ensuring that research data, code, and documentation are curated for reuse and reproducibility.
 
