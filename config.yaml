@@ -10,7 +10,7 @@
 # incubator: The Carpentries Incubator
 # Note that you can also use a custom carpentry type. For more info,
 # see the documentation: https://carpentries.github.io/sandpaper-docs/editing.html
-carpentry: 'cp'
+carpentry: 'lc'
 
 # Custom carpentry description
 # This will be used as the alt text for the logo
@@ -33,7 +33,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/curating4reproducibility/cure-carpentry-04-packaging'
+source: 'https://github.com/LibraryCarpentry/lc-compendium-packaging'
 
 # Default branch of your lesson
 branch: 'main'
